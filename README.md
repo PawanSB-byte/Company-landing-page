@@ -4,8 +4,8 @@
 
 ## 👩‍🎓 Student Details
 
-- **Name:** KUMAR SUBODH  
-- **Roll Number:** 2401010205  
+- **Name:** Pawan Singh Bisht 
+- **Roll Number:** 2401010153  
 - **Course:** B.Tech CSE CORE  
 - **Course Name:** Web Programming with Python and Javascript Lab  
 - **Course Code:** SEC035  
@@ -54,27 +54,3 @@ The project focuses on semantic HTML structure, modern CSS styling, responsive d
 6. Footer  
 
 ---
-
-## ⚙️ How to Run the Project
-
-1. Download or clone the repository
-   ```
-   git clone https://github.com/KumarSubodh12/COMPANY-LANDING-PAGE.git
-
-
-2. Open the project folder:
-   ```
-   cd company_landing_page
-   ```
-
-3. Open the `index.html` file in any web browser:
-   - Double-click `index.html`
-   OR  
-   - Right-click → Open with → Chrome / Edge / Firefox  
-
-No additional software or backend setup is required.
-
----
-
-
-
